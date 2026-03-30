@@ -1,5 +1,6 @@
 #include <string>
+using namespace std;
 
-std::string meet() {
+string meet() {
    return "You can delete this function and put your code here.";
 }
